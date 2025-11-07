@@ -733,6 +733,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://allenai.github.io/clin/">website</a> | <a href="https://github.com/allenai/clin">github</a> | <a href="https://arxiv.org/pdf/2310.10134.pdf">research paper</a></p>
 </div>
 
+### Cline
+<div><a href="https://github.com/cline/cline"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/cline/cline"><img src="https://img.shields.io/github/stars/cline/cline?style=social" alt="GitHub stars"></a></div>
+<p>⭐ 52,126 stars (Updated: 2025-11-06)</p>
+<p>🤖 AI Agents</p>
+
+<p>Cline is the open-source AI coding agent that gives you direct access to frontier models with complete transparency. Plan Mode, MCP integration, and zero vendor lock-in. Join 3.8M+ developers</p>
+
+<p><a href="https://cline.bot/">website</a> | <a href="https://github.com/cline/cline">github</a> | <a href="https://docs.cline.bot/introduction/welcome">docs</a> | <a href="https://x.com/cline">x</a> | <a href="https://www.linkedin.com/company/clinebot/">linkedin</a> | <a href="https://github.com/cline">github profile</a></p>
+</div>
+
 ### CodeActAgent
 <div><a href="https://github.com/xingyaoww/code-act"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/xingyaoww/code-act"><img src="https://img.shields.io/github/stars/xingyaoww/code-act?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 1,312 stars (Updated: 2025-07-30)</p>
